@@ -1,3 +1,3 @@
 # Node Architecture
-> **NOTE**   
+> **Note**   
 > README to be completed
