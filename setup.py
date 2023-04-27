@@ -8,6 +8,8 @@ setup(
     author='ItsMeAlfie0',
     author_email='simply-artificial@itsmealfie0.com',
     license='MIT',
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     packages=[
         'node_architecture',
         'node_architecture.Server'
