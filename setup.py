@@ -10,6 +10,7 @@ setup(
     license='MIT',
     packages=[
         'node_architecture',
+        'node_architecture.Server'
     ],
     install_requires=open('requirements.txt').read().splitlines(),
 
